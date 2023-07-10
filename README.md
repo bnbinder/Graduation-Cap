@@ -1,11 +1,12 @@
 # Graduation-Cap
 <div id="header" align="center">
-  <img src = "Graduation.jpg" width = 500 height = 500>
+  <img src = "Graduation.jpg" width = 300 height = 300>
+  <img src = "GraduationTwo.jpg" width = 300 height = 300>
 </div>
 <div id="header" align="center">
-  <img src = "Cap.jpg" width = 300 height = 300>
-  <img src = "Wrist.jpg" width = 300 height = 300>
-  <img src = "RSL.jpg" width = 300 height = 300>
+  <img src = "Cap.jpg" width = 200 height = 200>
+  <img src = "Wrist.jpg" width = 200 height = 200>
+  <img src = "RSL.jpg" width = 200 height = 200>
 </div>
 
 
@@ -16,7 +17,7 @@ I did this cuz why not have a bunch of lights on your head, like wouldn't that b
 The Big Flashy Light, better known as an RSL, which can be purchased <a href = "https://www.andymark.com/products/robot-signal-light"> here </a>, is, in the words of the FRC Electrical Bible, is "mandatory during competition and acts as a signal to whether the robot is connected to the FCS, in teleop mode, etc." In layman's terms, it's a light that stays solid when a robot is powered, but not running any code, and blinking when a robot is powered and running code, to alert people whether they might be liable to being run over by a robot or not. 
 <br>
 <div id="header" align="center">
-  <img src = "RSLWithOutlines"  width = 300 height = 300>
+  <img src = "RSLWithOutlines.jpg"  width = 300 height = 300>
 </div>
 <br>
 
