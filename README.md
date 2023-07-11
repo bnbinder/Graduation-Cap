@@ -70,7 +70,7 @@ Blue outline is the "Arduino"
 - White outline is the "battery and switch"
 - 
 
-Like a lot of other caps i've seen throughout my life, they have had either an LED matrix on top of their cap (which is super cool), or LEDS around the edge of the cap. I really wanted to have lights on my head, so I chose to do an LED strip around the edge, since that was simpler and I was short on time since I chose to make this a week before my graduation night. However, there was the issue of controlling it with an Arduino, which I solved with an old pet project. 
+Like a lot of other caps I've seen throughout my life, they have had either an LED matrix on top of their cap (which is super cool), or LEDS around the edge of the cap. I really wanted to have lights on my head, so I chose to do an LED strip around the edge, since that was simpler and I was short on time since I chose to make this a week before my graduation night. However, there was the issue of controlling it with an Arduino, which I solved with an old pet project. I really dont know why, but I decided that I wanted to code autonomous robotics code with Skylanders (repos can be found <a href = "https://github.com/bossmaster217/arduino-skylanders-roborio-code">here</a> and <a href = "https://github.com/bossmaster217/skylanders-autonomous-adventure">here</a>. I did this with an Arduino and RFID readers, so I just used the RFID tag each Skylander had to control a certain LED configuration. To make it mobile, I used pnumatic air holders as the watch holders, and attached the Arduino setup onto them, and hot glued the entire thing together. I also hot glued a 9V battery pack, the batery and switch, to be able to turn the arduino and LEDS on and off at will.
 
 
 
